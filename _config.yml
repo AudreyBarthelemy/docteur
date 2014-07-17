@@ -1,0 +1,20 @@
+# Site settings
+title: Audrey Barthélemy-Musso
+email: audrey.barthelemy.musso@gmail.com
+description: "Docteur de l'Université"
+
+baseurl: ""
+url: "http://docteur.audreybarthelemy.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+exclude:
+- bower_components
+- less
+- node_modules
+- Gruntfile.js
+- package.json
+- README.md
+- bower.json
