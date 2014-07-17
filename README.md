@@ -1,3 +1,3 @@
 # Curriculum Vitae Audrey Barthelemy
 
-Docteure en psychologie du développement
+Docteur en psychologie du développement
