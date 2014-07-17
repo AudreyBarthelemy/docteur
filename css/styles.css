@@ -6176,6 +6176,9 @@ body {
   font-family: 'Josefin Slab', serif;
   font-size: 30px;
 }
+.navbar-toggle .icon-bar {
+  background-color: black;
+}
 h1 {
   font-family: 'Josefin Slab', serif;
   color: white;
